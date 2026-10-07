@@ -1,6 +1,6 @@
-# digital_music_store_project
+## digital_music_store_project
 a learning project using MySQL to identify customer purchasing patterns and revenue trends.
-# 📊 MySQL Data Analytics Project
+## 📊 MySQL Data Analytics Project
 
 ## 📌 Overview
 
@@ -144,7 +144,6 @@ MySQL-Data-Analytics/
 - MySQL Database Management
 - Data Exploration
 - Business Problem Solving
-- Complex SQL Queries
 - Joins & Aggregations
 - CTEs & Subqueries
 - Window Functions
