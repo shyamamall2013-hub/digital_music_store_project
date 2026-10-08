@@ -1,6 +1,5 @@
-## digital_music_store_project
-a learning project using MySQL to identify customer purchasing patterns and revenue trends.
-## 📊 MySQL Data Analytics Project
+## Digital Music Store Analysis
+A learning project using MySQL to identify customer purchasing patterns and revenue trends.
 
 ## 📌 Overview
 
@@ -14,7 +13,7 @@ The goal of this project is to demonstrate practical **SQL and data analytics sk
 
 ## 📂 Dataset
 
-The dataset contains business-related information used to analyze:
+Multiple Tables contains business-related information used to analyze:
 
 - Customer behavior
 - Sales and revenue
